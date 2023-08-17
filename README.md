@@ -29,4 +29,8 @@ Además, se solicita la implementación de un segundo modelo, con sus
 correspondientes procedimientos y vistas, que pueda ser utilizado para la obtención de
 indicadores de gestión, análisis de escenarios y proyección para la toma de decisiones.
 
-Trabajo realizado con Simón Mirleni en el marco de la cátedra de Gestión de Datos de la carrera Ingeniería en Sistemas de Información de la Universidad Tecnológica Nacional
+## Contribuidores
+
+Bruno Rizzo
+
+Simón Mirleni

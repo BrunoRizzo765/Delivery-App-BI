@@ -2,10 +2,15 @@
 # Introducción
 ### Objetivos generales
 El presente trabajo práctico persigue los siguientes objetivos generales
+
 ● Promover la investigación de técnicas de base de datos.
+
 ● Aplicar la teoría vista en la asignatura en una aplicación concreta.
+
 ● Desarrollar y probar distintos algoritmos sobre datos reales.
+
 ● Fomentar la delegación y el trabajo en grupo.
+
 ## Descripción general
 Mediante este trabajo práctico se intenta simular la implementación de un nuevo
 sistema. El mismo consiste en una aplicación de Delivery Online que permite a los
